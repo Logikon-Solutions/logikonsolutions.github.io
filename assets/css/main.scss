@@ -225,9 +225,10 @@ h1, h2, h3, h4, h5, h6 {
   //padding-left: 5;
 
   /* small inner padding only */
-  //padding: 0 2rem;
-  padding-left: 0.5rem;   // or even 0
-  padding-right: 1rem;    // keep some space inside
+  padding: 0 2rem;
+
+  margin-left: 0 !important;
+
   box-sizing: border-box;
 }
 

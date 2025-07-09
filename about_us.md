@@ -15,7 +15,7 @@ sidebar: false
 
 <h1 class="manual_title">About us</h1>
 
-# About us
+[//]: # (# About us)
 
 ## The company
 ++++++
