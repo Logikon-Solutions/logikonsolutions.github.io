@@ -10,6 +10,9 @@ plugins:
 
 minimal_mistakes_skin: "dark"    # built‑in skins include "dark", "default", "air", "mint", etc. :contentReference[oaicite:0]{index=0}
 
+title: "Logikon Solutions"
+name: "Logikon Solutions"
+
 nav:
   - title: "About us"
     url: /about_us/

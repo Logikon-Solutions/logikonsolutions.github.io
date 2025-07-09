@@ -9,6 +9,11 @@ nav_order: 2
 
 Our portfolio of Data Science projects, ML implementations and Python automations
 
+## LLM deployment & Python automation projects
+- <a href="/projects/telegram-api-bot/" class="white-link">Trading bot with Telegram API integration for automated alerts</a>
+- <a href="/projects/bestseller-laptops/" class="white-link">Amazon Laptop Market Analysis</a>
+- <a href="/projects/automated-product-summaries-and-email-sender/" class="white-link">Review Automator – GPT-Based Review Summarizer with Email Automation & Web Scraping</a>
+
 ## Data Science projects
 - <a href="/projects/hunting-game/" class="white-link">Hunting Game – A Web-Based Prey-Predator AI Experience powered via Multi-Agent Reinforcement Learning</a>
 - <a href="/projects/bestseller-laptops/" class="white-link">Amazon Laptop Market Analysis</a>
@@ -21,11 +26,6 @@ Our portfolio of Data Science projects, ML implementations and Python automation
 - <a href="/projects/reddit-sentiment" class="white-link">Reddit Sentiment Analysis for Stock Price Forecasting</a>
 - <a href="/projects/malaria-predictive" class="white-link">Developing ML forecasting tools for Malaria prevelance in South Sudan</a>
 - <a href="/projects/wind-forecasting" class="white-link">Wind forecasting and power generation algorithms</a>
-
-## Python automation projects
-- <a href="/projects/telegram-api-bot/" class="white-link">Trading bot with Telegram API integration for automated alerts</a>
-- <a href="/projects/bestseller-laptops/" class="white-link">Amazon Laptop Market Analysis</a>
-- <a href="/projects/automated-product-summaries-and-email-sender/" class="white-link">Review Automator – GPT-Based Review Summarizer with Email Automation & Web Scraping</a>
 
 ## Data Science projects in Civil Engineering
 - <a href="/projects/optimization-quay-wall-rl/" class="white-link">Optimization of Decision-Making for Port Engineering Assets via RL</a>
