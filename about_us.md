@@ -1,5 +1,5 @@
 ---
-layout: about_us
+layout: cv
 title: 
 permalink: /about_us/
 nav_order: 1
