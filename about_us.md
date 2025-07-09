@@ -38,5 +38,5 @@ At Logikon Solutions, our mission is to make advanced AI and data automation acc
 ---
 
 ## Our staff
-<a href="https://pargo18.github.io/resume.io/cv/" class="white-link" target="_blank" rel="noopener noreferrer">Panagiotis Mavritsakis</a>
-<a href=https://amavrits.github.io/cv/" class="white-link" target="_blank" rel="noopener noreferrer">Antonis Mavritsakis</a>
+<a href="https://pargo18.github.io/resume.io/cv/" class="white-link" target="_blank" rel="noopener noreferrer">Panagiotis Mavritsakis</a>  
+<a href="https://amavrits.github.io/cv/" class="white-link" target="_blank" rel="noopener noreferrer">Antonis Mavritsakis</a>
