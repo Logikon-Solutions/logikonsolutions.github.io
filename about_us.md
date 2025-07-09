@@ -19,6 +19,10 @@ sidebar: false
 
 ## The company
 ++++++
+---
+
+## Our mission
+++++++
 
 ---
 
