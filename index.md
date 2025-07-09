@@ -18,5 +18,5 @@ AI, Automation & Analytics — Tailored Data Science solutions for your business
 - 📚 [Research](/research/) — Publications and academic work of our staff
 - 📬 Connect via [email](mailto:contact@logikonsolutions.com) or on 
   <a href="https://github.com/Logikon-Solutions">Github</a> and
-  <a href="https://linkedin.com/in/antonis-mavritsakis">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/logikon-solutions/">LinkedIn</a>
 
