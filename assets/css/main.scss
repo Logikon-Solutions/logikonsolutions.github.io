@@ -227,6 +227,8 @@ h1, h2, h3, h4, h5, h6 {
   /* small inner padding only */
   padding: 0 2rem;
 
+  padding-left: 0 !important;
+
   margin-left: 0 !important;
 
   box-sizing: border-box;
