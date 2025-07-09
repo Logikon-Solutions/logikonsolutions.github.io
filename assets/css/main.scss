@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 .github-avatar {
   position: absolute;   /* now measured against the viewport */
   top: 6rem;            /* tweak as you like */
-  left: 3rem;
+  left: 5rem;
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 
   /* FIXED sidebar width + fluid main */
   //grid-template-columns: 1fr 3fr !important;
-  grid-template-columns: 300px 900px;
+  grid-template-columns: 350px 900px;
 
   /* tighten up the space between them */
   gap: 3rem;
@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
   //padding-left: 5;
 
   /* small inner padding only */
-  padding: 0 1rem;
+  padding: 0 2rem;
   box-sizing: border-box;
 }
 
