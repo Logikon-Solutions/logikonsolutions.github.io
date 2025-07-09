@@ -7,7 +7,7 @@ classes: home-page
 ---
 
 # Logikon Solutions
-<h2 class="typewriter gold-link">Data Scientist | Researcher | Engineer</h2>
+<h2 class="typewriter gold-link">Business solutions | Data Science | Python automations</h2>
 
 I'm a data scientist, risk analyst, and engineer based in Utrecht, The Netherlands. I specialize in utilizing data-driven methods to tackle complex decision-making challenges. I currently work as a researcher and consultant at Deltares, and I’ve developed open-source tools and models focused on reinforcement learning, statistical inference, and decision-making under uncertainty for engineering infrastructure assets.
 
