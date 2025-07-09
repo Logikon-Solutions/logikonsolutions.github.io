@@ -70,7 +70,7 @@ a.gold-link {
 }
 
 a.white-link {
-  color: whitesmoke !important;
+  color: #222 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -186,6 +186,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+  border: 2px solid black;
   box-shadow: 0 2px 6px rgba(0,0,0,.15);
   object-fit: cover;
   transition: transform .15s ease;
