@@ -7,7 +7,7 @@ classes: home-page
 ---
 
 # Logikon Solutions
-<h2 class="typewriter gold-link">AI solutions | Data Science | Python automations</h2>
+<h2 class="typewriter gold-link">AI solutions | Data Science | Python automation</h2>
 
 AI, Automation & Analytics — Tailored Data Science solutions for your business
 
