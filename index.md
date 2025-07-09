@@ -13,7 +13,7 @@ I'm a data scientist, risk analyst, and engineer based in Utrecht, The Netherlan
 
 ## Explore:
 
-- 📄 [About us](/cv/) — My experience and background  
+- 📄 [About us](/about_us/) — My experience and background  
 - ⚙️ [Projects](/projects/) — What I’ve been building  
 - 📚 [Research](/research/) — Publications and academic work
 - 📬 Connect via [email](mailto:amavrits.upwork@gmail.com) or on 
