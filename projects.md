@@ -9,7 +9,7 @@ nav_order: 2
 
 Our portfolio of Data Science projects, ML implementations and Python automations
 
-## LLM deployment & Python automation projects
+## Agent deployment & Python automation projects
 - <a href="/projects/telegram-api-bot/" class="white-link">Trading bot with Telegram API integration for automated alerts</a>
 - <a href="/projects/bestseller-laptops/" class="white-link">Amazon Laptop Market Analysis</a>
 - <a href="/projects/automated-product-summaries-and-email-sender/" class="white-link">Review Automator – GPT-Based Review Summarizer with Email Automation & Web Scraping</a>
