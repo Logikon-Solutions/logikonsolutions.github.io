@@ -62,11 +62,11 @@ html {
 //}
 
 a {
-  color: goldenrod !important; /* Optional: links */
+  color: #1e3a8a !important; /* Optional: links */
 }
 
 a.gold-link {
-  color: goldenrod !important;
+  color: #1e3a8a !important;
 }
 
 a.white-link {
@@ -74,7 +74,7 @@ a.white-link {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #a430c9 !important;
+  color: #1e3a8a !important;
   //color: #9c27c2 !important;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .page__title,
 .page__title a {
-  color: goldenrod !important;
+  color: #1e3a8a !important;
 }
 
 /* ---- Justify main content and set page width ---- */
@@ -156,10 +156,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .typewriter {
   overflow: hidden;
-  border-right: 2px solid goldenrod;
+  border-right: 2px solid #1e3a8a;
   white-space: nowrap;
   width: 0;
-  color: goldenrod !important;  /* <- force override */
+  color: #1e3a8a !important;  /* <- force override */
   animation:
     typing 3.5s steps(40, end) forwards,
     blink 0.8s step-end 3.5s 1 forwards;
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px #222;
   box-shadow: 0 2px 6px rgba(0,0,0,.15);
   object-fit: cover;
   transition: transform .15s ease;
@@ -273,11 +273,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .page__title,
 .page__title a {
-  color: #a430c9 !important;
+  color: #1e3a8a !important;
 }
 
 .manual_title,
 .manual_title a {
-  color: goldenrod !important;
+  color: #1e3a8a !important;
 }
 
