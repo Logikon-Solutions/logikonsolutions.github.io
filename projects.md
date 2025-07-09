@@ -7,7 +7,7 @@ nav_order: 2
 
 <h1 class="manual_title">Projects</h1>
 
-My portfolio of Data Science projects, ML implementations and Python developments.
+Our portfolio of Data Science projects, ML implementations and Python automations
 
 ## Data Science projects
 - <a href="/projects/hunting-game/" class="white-link">Hunting Game – A Web-Based Prey-Predator AI Experience powered via Multi-Agent Reinforcement Learning</a>

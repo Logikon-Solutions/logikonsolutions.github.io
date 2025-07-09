@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: about_us
 title: 
-permalink: /cv/
+permalink: /about_us/
 nav_order: 1
 
 # disable the theme’s author‐profile sidebar
