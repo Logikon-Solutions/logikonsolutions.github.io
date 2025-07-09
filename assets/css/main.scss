@@ -210,7 +210,6 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1700px;
 
   margin: 2rem 0 2rem 2rem;
-  transform: translateX(-40px);   // <--- Shift grid to the left
 
   /* ensure padding you add doesn’t inflate the track width */
   box-sizing: border-box;
@@ -226,7 +225,9 @@ h1, h2, h3, h4, h5, h6 {
   //padding-left: 5;
 
   /* small inner padding only */
-  padding: 0 2rem;
+  //padding: 0 2rem;
+  padding-left: 0.5rem;   // or even 0
+  padding-right: 1rem;    // keep some space inside
   box-sizing: border-box;
 }
 
