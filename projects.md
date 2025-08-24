@@ -27,6 +27,7 @@ Our portfolio of Data Science projects, ML implementations and Python automation
 - <a href="/projects/wind-forecasting" class="white-link">Wind forecasting and power generation algorithms</a>
 
 ## Data Science projects in Civil Engineering
+The following projects have been performed by the co-founders, but not as projects of Logikon Solutions. 
 - <a href="/projects/optimization-quay-wall-rl/" class="white-link">Optimization of Decision-Making for Port Engineering Assets via RL</a>
 - <a href="/projects/soil-strength-hbm/" class="white-link">Hierarchical Bayesian Modelling of Soil Strength</a>
 - <a href="/projects/subsurface-cpt-gpr/" class="white-link">Subsurface Mapping with CPT using Bayesian GPR</a>

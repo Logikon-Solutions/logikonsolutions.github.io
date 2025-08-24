@@ -13,6 +13,8 @@ Under construction...
 
 ## Publications
 
+The following publications have been made by the co-founders, but not as projects funded or performed by Logikon Solutions. 
+
 - **Bayesian analysis of benchmark examples for data-driven site characterization**  
   *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems,<br>Part A: Civil Engineering, 2023*<br>
   <a href="https://doi.org/10.1061/AJRUA6.RUENG-975" class="gold-link">Read Article →</a>
