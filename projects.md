@@ -19,15 +19,15 @@ Our portfolio of Data Science projects, ML implementations and Python automation
 - <a href="/projects/jaxagents/" class="white-link">JAXAgents: a package for efficient (Multi-Agent) Reinforcement Learning</a>
 - <a href="/projects/blackjack-drl/" class="white-link">Beating Blackjack with Deep Reinforcement Learning</a>
 - <a href="/projects/reddit-sentiment/" class="white-link">Reddit Sentiment Analysis for Stock Price Forecasting</a>
-- <a href="/projects/AI-for-groundwater-modelling" class="white-link">Modflow surrogate modelling using neural operators</a>
 - <a href="/projects/commodities-forecasting" class="white-link">Commodities price forecasting</a>
 - <a href="/projects/dry-spell-forecasting" class="white-link">Utilizing ML to reproduce dry spell data in a data-scarce region</a>
 - <a href="/projects/reddit-sentiment" class="white-link">Reddit Sentiment Analysis for Stock Price Forecasting</a>
-- <a href="/projects/malaria-predictive" class="white-link">Developing ML forecasting tools for Malaria prevelance in South Sudan</a>
 - <a href="/projects/wind-forecasting" class="white-link">Wind forecasting and power generation algorithms</a>
 
 ## Data Science projects in Civil Engineering
-The following projects have been performed by the co-founders, but not as projects of Logikon Solutions. 
+The following projects have been performed by the co-founders, but not as projects of Logikon Solutions.
+- <a href="/projects/AI-for-groundwater-modelling" class="white-link">Modflow surrogate modelling using neural operators</a>
+- <a href="/projects/malaria-predictive" class="white-link">Developing ML forecasting tools for Malaria prevelance in South Sudan</a>
 - <a href="/projects/optimization-quay-wall-rl/" class="white-link">Optimization of Decision-Making for Port Engineering Assets via RL</a>
 - <a href="/projects/soil-strength-hbm/" class="white-link">Hierarchical Bayesian Modelling of Soil Strength</a>
 - <a href="/projects/subsurface-cpt-gpr/" class="white-link">Subsurface Mapping with CPT using Bayesian GPR</a>
